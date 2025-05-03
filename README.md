@@ -1,7 +1,7 @@
 <h1>Hey there! I'm Monis</h1>
 
 
-![Visitor Badge](https://count.getloli.com/get/@MonisMS?theme=ai-1)
+
 
 
 
@@ -68,8 +68,9 @@
 
 
 <!-- Other sections... -->
+<h2>Visitor count</h2>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@MonisMS?theme=gelbooru" alt="visitor badge"/>
+  <img src="https://count.getloli.com/get/@MonisMS?theme=ai-1" alt="visitor badge"/>
 </p>
 
