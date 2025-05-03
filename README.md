@@ -1,16 +1,8 @@
 <h1>Hey there! I'm Monis</h1>
 
-![Visitor Badge](https://count.getloli.com/get/@MonisMS?theme=gelbooru)
+
 ![Visitor Badge](https://count.getloli.com/get/@MonisMS?theme=ai-1)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MonisMS.MonisMS)
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=MonisMS&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🚀 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=MonisMS&theme=algolia&hide_border=true)](https://git.io/streak-stats)
-
-### 📊 GitHub Stats
-![MonisMS's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonisMS&show_icons=true&theme=algolia)
 
 
 
@@ -48,9 +40,20 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=MonisMS&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🚀 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=MonisMS&theme=algolia&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+### 📊 GitHub Stats
+![MonisMS's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonisMS&show_icons=true&theme=algolia)
+
+
 <p align="center">
 <a href="https://github.com/MonisMS">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MonisMS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MonisMS&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
