@@ -1,5 +1,6 @@
 <h1>Hey there! I'm Monis</h1>
 
+![Visitor Badge](https://count.getloli.com/get/@MonisMS?theme=gelbooru)
 <!-- ## 👋 &nbsp;Hey there! I'm Monis -->
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -48,3 +49,11 @@
 <a href="https://www.instagram.com/monis_sarwar/"><img src="https://img.shields.io/badge/-monis_sarwar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://x.com/SMSarwar47"><img src="https://img.shields.io/badge/-@SMSarwar47-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
+
+
+<!-- Other sections... -->
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@MonisMS?theme=gelbooru" alt="visitor badge"/>
+</p>
+
