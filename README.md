@@ -1,6 +1,19 @@
 <h1>Hey there! I'm Monis</h1>
 
 ![Visitor Badge](https://count.getloli.com/get/@MonisMS?theme=gelbooru)
+![Visitor Badge](https://count.getloli.com/get/@MonisMS?theme=ai-1)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=MonisMS.MonisMS)
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=MonisMS&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🚀 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=MonisMS&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+
+### 📊 GitHub Stats
+![MonisMS's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonisMS&show_icons=true&theme=algolia)
+
+
+
 <!-- ## 👋 &nbsp;Hey there! I'm Monis -->
 
 ### 👨🏻‍💻 &nbsp;About Me
