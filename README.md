@@ -1,76 +1,23 @@
-<h1>Hey there! I'm Monis</h1>
+# Hi, I'm Monis
 
+Full stack developer and CS undergrad building web apps and AI-powered tools.
 
+Currently learning agentic AI and sharing what I learn along the way.
 
+## Projects
 
+**[AskAI](https://askai-nu.vercel.app)** — AI-powered Q&A assistant. [Code](https://github.com/MonisMS/askai)
 
+**[Nivora](https://nivora-seven.vercel.app)** — Full stack web application. [Code](https://github.com/MonisMS/nivora)
 
+**[Curio](https://curio-sity.vercel.app)** — Article aggregator pulling from 275+ sources. [Code](https://github.com/MonisMS/article-it)
 
-<!-- ## 👋 &nbsp;Hey there! I'm Monis -->
+More on my portfolio → [m0nis.com](https://m0nis.com)
 
-### 👨🏻‍💻 &nbsp;About Me
+## Tech
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm a Computer Science undergrad.\
-🌱 &nbsp;I'm on track for learning more about Web Development,Artificial Intelligence and Web3.\
-✍️ &nbsp;In my free time,I prefer watching anime or going out for walks.\
-✉️ &nbsp;You can shoot me an email at monissms16@gmail.com ! I'll try to respond as soon as I can.\
+TypeScript · JavaScript · React · Next.js · Node.js · Express · Python · Tailwind CSS · MongoDB · PostgreSQL · Git 
 
+## Find me
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=MonisMS&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🚀 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=MonisMS&theme=algolia&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-
-### 📊 GitHub Stats
-![MonisMS's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonisMS&show_icons=true&theme=algolia)
-
-
-<p align="center">
-<a href="https://github.com/MonisMS">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MonisMS&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/syed-monis-sarwar-sms47/"><img src="https://img.shields.io/badge/-Syed%20Monis%20Sarwar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/monis_sarwar/"><img src="https://img.shields.io/badge/-monis_sarwar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://x.com/SMSarwar47"><img src="https://img.shields.io/badge/-@SMSarwar47-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-</p>
-
-
-<!-- Other sections... -->
-<h2>Visitor count</h2>
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@MonisMS?theme=ai-1" alt="visitor badge"/>
-</p>
-
+[Portfolio](https://m0nis.com) · [LinkedIn](https://www.linkedin.com/in/syed-monis-sarwar-sms47/) · [Twitter/X](https://x.com/SMSarwar47) · [Instagram](https://www.instagram.com/monis.dev/) · monissms16@gmail.com
